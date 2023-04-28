@@ -1,5 +1,4 @@
-# vizStudy
-Visualization Study
+# Visualization Quality Assessment
 
 This program is open source under the BSD-3 License.
 Redistribution and use in source and binary forms, with or without modification, are permitted
