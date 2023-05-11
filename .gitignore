@@ -1,3 +1,5 @@
+.gitignore
+
 # data
 *.h5
 *.hdf5
