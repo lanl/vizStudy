@@ -3,6 +3,7 @@
 *.hdf5
 *.dat
 *.sz
+*.out
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
