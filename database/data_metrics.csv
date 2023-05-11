@@ -1,0 +1,1 @@
+data_id,dataset_name,dataset_path,scalar,compressor,compressor_mode,compressor_settings,mean_abs_error,std_dev_abs_error,max_abs_error,mean_rel_error,std_dev_rel_error,max_rel_error,MSE,PSNR,compression_ratio

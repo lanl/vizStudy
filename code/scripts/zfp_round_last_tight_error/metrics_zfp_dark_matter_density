@@ -1,0 +1,433 @@
+Input file: /projects/exasky/data/NYX/highz/512/NVB_C009_l10n512_S12345T692_z54.hdf5
+
+---------------------------------------
+Compressor: zfp
+abs0.0117196
+
+Field: dark_matter_density
+Max Compression Throughput: 155.96 Mbytes/s
+Max DeCompression Throughput: 224.75 Mbytes/s
+Max Compress Time: 0.215074 s
+Min Compression Throughput: 148.786 Mbytes/s
+Min DeCompression Throughput: 213.505 Mbytes/s
+Compression ratio: 3.05459
+
+---------------------------------------
+Compressor: zfp
+abs0.0223937
+
+Field: dark_matter_density
+Max Compression Throughput: 163.552 Mbytes/s
+Max DeCompression Throughput: 240.381 Mbytes/s
+Max Compress Time: 0.205222 s
+Min Compression Throughput: 155.929 Mbytes/s
+Min DeCompression Throughput: 225.082 Mbytes/s
+Compression ratio: 3.37693
+
+---------------------------------------
+Compressor: zfp
+abs0.0354572
+
+Field: dark_matter_density
+Max Compression Throughput: 172.234 Mbytes/s
+Max DeCompression Throughput: 255.619 Mbytes/s
+Max Compress Time: 0.196697 s
+Min Compression Throughput: 162.686 Mbytes/s
+Min DeCompression Throughput: 240.726 Mbytes/s
+Compression ratio: 3.77535
+
+---------------------------------------
+Compressor: zfp
+abs0.0430357
+
+Field: dark_matter_density
+Max Compression Throughput: 171.851 Mbytes/s
+Max DeCompression Throughput: 255.398 Mbytes/s
+Max Compress Time: 0.196315 s
+Min Compression Throughput: 163.003 Mbytes/s
+Min DeCompression Throughput: 241.931 Mbytes/s
+Compression ratio: 3.77535
+
+---------------------------------------
+Compressor: zfp
+abs0.0597188
+
+Field: dark_matter_density
+Max Compression Throughput: 171.531 Mbytes/s
+Max DeCompression Throughput: 256.255 Mbytes/s
+Max Compress Time: 0.196189 s
+Min Compression Throughput: 163.108 Mbytes/s
+Min DeCompression Throughput: 241.773 Mbytes/s
+Compression ratio: 3.77535
+
+---------------------------------------
+Compressor: zfp
+abs0.0650566
+
+Field: dark_matter_density
+Max Compression Throughput: 181.106 Mbytes/s
+Max DeCompression Throughput: 274.144 Mbytes/s
+Max Compress Time: 0.187182 s
+Min Compression Throughput: 170.957 Mbytes/s
+Min DeCompression Throughput: 259.57 Mbytes/s
+Compression ratio: 4.28035
+
+---------------------------------------
+Compressor: zfp
+abs0.0720114
+
+Field: dark_matter_density
+Max Compression Throughput: 181.053 Mbytes/s
+Max DeCompression Throughput: 276.788 Mbytes/s
+Max Compress Time: 0.186733 s
+Min Compression Throughput: 171.368 Mbytes/s
+Min DeCompression Throughput: 258.233 Mbytes/s
+Compression ratio: 4.28035
+
+---------------------------------------
+Compressor: zfp
+abs0.0919673
+
+Field: dark_matter_density
+Max Compression Throughput: 179.276 Mbytes/s
+Max DeCompression Throughput: 277.089 Mbytes/s
+Max Compress Time: 0.187351 s
+Min Compression Throughput: 170.803 Mbytes/s
+Min DeCompression Throughput: 259.167 Mbytes/s
+Compression ratio: 4.28035
+
+---------------------------------------
+Compressor: zfp
+abs0.0941055
+
+Field: dark_matter_density
+Max Compression Throughput: 181.232 Mbytes/s
+Max DeCompression Throughput: 276.668 Mbytes/s
+Max Compress Time: 0.187025 s
+Min Compression Throughput: 171.1 Mbytes/s
+Min DeCompression Throughput: 257.615 Mbytes/s
+Compression ratio: 4.28035
+
+---------------------------------------
+Compressor: zfp
+abs0.116476
+
+Field: dark_matter_density
+Max Compression Throughput: 180.827 Mbytes/s
+Max DeCompression Throughput: 277.079 Mbytes/s
+Max Compress Time: 0.187393 s
+Min Compression Throughput: 170.764 Mbytes/s
+Min DeCompression Throughput: 257.968 Mbytes/s
+Compression ratio: 4.28035
+
+---------------------------------------
+Compressor: zfp
+abs0.207773
+
+Field: dark_matter_density
+Max Compression Throughput: 191.728 Mbytes/s
+Max DeCompression Throughput: 298.312 Mbytes/s
+Max Compress Time: 0.177268 s
+Min Compression Throughput: 180.518 Mbytes/s
+Min DeCompression Throughput: 279.302 Mbytes/s
+Compression ratio: 4.94139
+
+---------------------------------------
+Compressor: zfp
+abs0.308419
+
+Field: dark_matter_density
+Max Compression Throughput: 203.4 Mbytes/s
+Max DeCompression Throughput: 325.974 Mbytes/s
+Max Compress Time: 0.195993 s
+Min Compression Throughput: 163.271 Mbytes/s
+Min DeCompression Throughput: 301.789 Mbytes/s
+Compression ratio: 5.84426
+
+---------------------------------------
+Compressor: zfp
+abs0.433559
+
+Field: dark_matter_density
+Max Compression Throughput: 203.236 Mbytes/s
+Max DeCompression Throughput: 325.54 Mbytes/s
+Max Compress Time: 0.167893 s
+Min Compression Throughput: 190.597 Mbytes/s
+Min DeCompression Throughput: 303.144 Mbytes/s
+Compression ratio: 5.84426
+
+---------------------------------------
+Compressor: zfp
+abs0.538927
+
+Field: dark_matter_density
+Max Compression Throughput: 218.286 Mbytes/s
+Max DeCompression Throughput: 360.615 Mbytes/s
+Max Compress Time: 0.157208 s
+Min Compression Throughput: 203.552 Mbytes/s
+Min DeCompression Throughput: 334.01 Mbytes/s
+Compression ratio: 7.15215
+
+---------------------------------------
+Compressor: zfp
+abs0.684265
+
+Field: dark_matter_density
+Max Compression Throughput: 217.774 Mbytes/s
+Max DeCompression Throughput: 363.203 Mbytes/s
+Max Compress Time: 0.19238 s
+Min Compression Throughput: 166.337 Mbytes/s
+Min DeCompression Throughput: 331.636 Mbytes/s
+Compression ratio: 7.15215
+
+---------------------------------------
+Compressor: zfp
+abs0.79692
+
+Field: dark_matter_density
+Max Compression Throughput: 218.691 Mbytes/s
+Max DeCompression Throughput: 359.497 Mbytes/s
+Max Compress Time: 0.157251 s
+Min Compression Throughput: 203.497 Mbytes/s
+Min DeCompression Throughput: 330.89 Mbytes/s
+Compression ratio: 7.15215
+
+---------------------------------------
+Compressor: zfp
+abs0.861911
+
+Field: dark_matter_density
+Max Compression Throughput: 217.653 Mbytes/s
+Max DeCompression Throughput: 361.436 Mbytes/s
+Max Compress Time: 0.156988 s
+Min Compression Throughput: 203.837 Mbytes/s
+Min DeCompression Throughput: 330.647 Mbytes/s
+Compression ratio: 7.15215
+
+---------------------------------------
+Compressor: zfp
+abs1.10087
+
+Field: dark_matter_density
+Max Compression Throughput: 237.175 Mbytes/s
+Max DeCompression Throughput: 411.577 Mbytes/s
+Max Compress Time: 0.170822 s
+Min Compression Throughput: 187.33 Mbytes/s
+Min DeCompression Throughput: 370.896 Mbytes/s
+Compression ratio: 9.21391
+
+---------------------------------------
+Compressor: zfp
+abs1.08296
+
+Field: dark_matter_density
+Max Compression Throughput: 237.508 Mbytes/s
+Max DeCompression Throughput: 409.898 Mbytes/s
+Max Compress Time: 0.146024 s
+Min Compression Throughput: 219.142 Mbytes/s
+Min DeCompression Throughput: 369.377 Mbytes/s
+Compression ratio: 9.21391
+
+---------------------------------------
+Compressor: zfp
+abs2.20074
+
+Field: dark_matter_density
+Max Compression Throughput: 266.798 Mbytes/s
+Max DeCompression Throughput: 488.402 Mbytes/s
+Max Compress Time: 0.132963 s
+Min Compression Throughput: 240.669 Mbytes/s
+Min DeCompression Throughput: 426.251 Mbytes/s
+Compression ratio: 12.8836
+
+---------------------------------------
+Compressor: zfp
+abs3.00351
+
+Field: dark_matter_density
+Max Compression Throughput: 266.143 Mbytes/s
+Max DeCompression Throughput: 493.295 Mbytes/s
+Max Compress Time: 0.13257 s
+Min Compression Throughput: 241.382 Mbytes/s
+Min DeCompression Throughput: 424.704 Mbytes/s
+Compression ratio: 12.8836
+
+---------------------------------------
+Compressor: zfp
+abs3.88695
+
+Field: dark_matter_density
+Max Compression Throughput: 265.409 Mbytes/s
+Max DeCompression Throughput: 489.292 Mbytes/s
+Max Compress Time: 0.133064 s
+Min Compression Throughput: 240.486 Mbytes/s
+Min DeCompression Throughput: 429.345 Mbytes/s
+Compression ratio: 12.8836
+
+---------------------------------------
+Compressor: zfp
+abs5.26882
+
+Field: dark_matter_density
+Max Compression Throughput: 309.76 Mbytes/s
+Max DeCompression Throughput: 626.884 Mbytes/s
+Max Compress Time: 0.1169 s
+Min Compression Throughput: 273.739 Mbytes/s
+Min DeCompression Throughput: 528.208 Mbytes/s
+Compression ratio: 20.5089
+
+---------------------------------------
+Compressor: zfp
+abs6.28486
+
+Field: dark_matter_density
+Max Compression Throughput: 310.012 Mbytes/s
+Max DeCompression Throughput: 626.207 Mbytes/s
+Max Compress Time: 0.117062 s
+Min Compression Throughput: 273.359 Mbytes/s
+Min DeCompression Throughput: 518.874 Mbytes/s
+Compression ratio: 20.5089
+
+---------------------------------------
+Compressor: zfp
+abs6.65728
+
+Field: dark_matter_density
+Max Compression Throughput: 308.995 Mbytes/s
+Max DeCompression Throughput: 636.754 Mbytes/s
+Max Compress Time: 0.117385 s
+Min Compression Throughput: 272.607 Mbytes/s
+Min DeCompression Throughput: 523.478 Mbytes/s
+Compression ratio: 20.5089
+
+---------------------------------------
+Compressor: zfp
+abs8.30412
+
+Field: dark_matter_density
+Max Compression Throughput: 372.801 Mbytes/s
+Max DeCompression Throughput: 824.441 Mbytes/s
+Max Compress Time: 0.0998632 s
+Min Compression Throughput: 320.438 Mbytes/s
+Min DeCompression Throughput: 653.613 Mbytes/s
+Compression ratio: 36.9767
+
+---------------------------------------
+Compressor: zfp
+abs8.84143
+
+Field: dark_matter_density
+Max Compression Throughput: 371.849 Mbytes/s
+Max DeCompression Throughput: 809.547 Mbytes/s
+Max Compress Time: 0.0998568 s
+Min Compression Throughput: 320.459 Mbytes/s
+Min DeCompression Throughput: 652.367 Mbytes/s
+Compression ratio: 36.9767
+
+---------------------------------------
+Compressor: zfp
+abs10.273
+
+Field: dark_matter_density
+Max Compression Throughput: 371.525 Mbytes/s
+Max DeCompression Throughput: 818.265 Mbytes/s
+Max Compress Time: 0.0998699 s
+Min Compression Throughput: 320.417 Mbytes/s
+Min DeCompression Throughput: 652.388 Mbytes/s
+Compression ratio: 36.9767
+
+---------------------------------------
+Compressor: zfp
+abs20.5992
+
+Field: dark_matter_density
+Max Compression Throughput: 439.946 Mbytes/s
+Max DeCompression Throughput: 938.808 Mbytes/s
+Max Compress Time: 0.08536 s
+Min Compression Throughput: 374.883 Mbytes/s
+Min DeCompression Throughput: 782.767 Mbytes/s
+Compression ratio: 62.6482
+
+---------------------------------------
+Compressor: zfp
+abs29.2395
+
+Field: dark_matter_density
+Max Compression Throughput: 440.095 Mbytes/s
+Max DeCompression Throughput: 946.429 Mbytes/s
+Max Compress Time: 0.107928 s
+Min Compression Throughput: 296.494 Mbytes/s
+Min DeCompression Throughput: 781.177 Mbytes/s
+Compression ratio: 62.6482
+
+---------------------------------------
+Compressor: zfp
+abs35.809
+
+Field: dark_matter_density
+Max Compression Throughput: 520.117 Mbytes/s
+Max DeCompression Throughput: 996.128 Mbytes/s
+Max Compress Time: 0.0730238 s
+Min Compression Throughput: 438.213 Mbytes/s
+Min DeCompression Throughput: 868.38 Mbytes/s
+Compression ratio: 94.3749
+
+---------------------------------------
+Compressor: zfp
+abs47.224
+
+Field: dark_matter_density
+Max Compression Throughput: 521.809 Mbytes/s
+Max DeCompression Throughput: 1005.18 Mbytes/s
+Max Compress Time: 0.0729719 s
+Min Compression Throughput: 438.525 Mbytes/s
+Min DeCompression Throughput: 866.644 Mbytes/s
+Compression ratio: 94.3749
+
+---------------------------------------
+Compressor: zfp
+abs57.3609
+
+Field: dark_matter_density
+Max Compression Throughput: 518.888 Mbytes/s
+Max DeCompression Throughput: 1013.72 Mbytes/s
+Max Compress Time: 0.0729242 s
+Min Compression Throughput: 438.812 Mbytes/s
+Min DeCompression Throughput: 876.965 Mbytes/s
+Compression ratio: 94.3749
+
+---------------------------------------
+Compressor: zfp
+abs58.77
+
+Field: dark_matter_density
+Max Compression Throughput: 520.308 Mbytes/s
+Max DeCompression Throughput: 1004.47 Mbytes/s
+Max Compress Time: 0.0968298 s
+Min Compression Throughput: 330.477 Mbytes/s
+Min DeCompression Throughput: 878.861 Mbytes/s
+Compression ratio: 94.3749
+
+---------------------------------------
+Compressor: zfp
+abs67.2536
+
+Field: dark_matter_density
+Max Compression Throughput: 623.212 Mbytes/s
+Max DeCompression Throughput: 1042.57 Mbytes/s
+Max Compress Time: 0.0615776 s
+Min Compression Throughput: 519.67 Mbytes/s
+Min DeCompression Throughput: 958.155 Mbytes/s
+Compression ratio: 132.924
+
+---------------------------------------
+Compressor: zfp
+abs80.3423
+
+Field: dark_matter_density
+Max Compression Throughput: 621.136 Mbytes/s
+Max DeCompression Throughput: 1035.92 Mbytes/s
+Max Compress Time: 0.0616636 s
+Min Compression Throughput: 518.945 Mbytes/s
+Min DeCompression Throughput: 966.796 Mbytes/s
+Compression ratio: 132.924

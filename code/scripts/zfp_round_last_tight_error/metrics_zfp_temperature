@@ -1,0 +1,433 @@
+Input file: /projects/exasky/data/NYX/highz/512/NVB_C009_l10n512_S12345T692_z54.hdf5
+
+---------------------------------------
+Compressor: zfp
+abs2.85449
+
+Field: temperature
+Max Compression Throughput: 123.483 Mbytes/s
+Max DeCompression Throughput: 203.22 Mbytes/s
+Max Compress Time: 0.29161 s
+Min Compression Throughput: 109.736 Mbytes/s
+Min DeCompression Throughput: 193.928 Mbytes/s
+Compression ratio: 2.95908
+
+---------------------------------------
+Compressor: zfp
+abs5.396
+
+Field: temperature
+Max Compression Throughput: 128.345 Mbytes/s
+Max DeCompression Throughput: 215.237 Mbytes/s
+Max Compress Time: 0.255398 s
+Min Compression Throughput: 125.294 Mbytes/s
+Min DeCompression Throughput: 204.293 Mbytes/s
+Compression ratio: 3.26059
+
+---------------------------------------
+Compressor: zfp
+abs8.17334
+
+Field: temperature
+Max Compression Throughput: 133.084 Mbytes/s
+Max DeCompression Throughput: 228.707 Mbytes/s
+Max Compress Time: 0.244755 s
+Min Compression Throughput: 130.743 Mbytes/s
+Min DeCompression Throughput: 218.057 Mbytes/s
+Compression ratio: 3.63053
+
+---------------------------------------
+Compressor: zfp
+abs10.7725
+
+Field: temperature
+Max Compression Throughput: 133.403 Mbytes/s
+Max DeCompression Throughput: 228.83 Mbytes/s
+Max Compress Time: 0.244733 s
+Min Compression Throughput: 130.755 Mbytes/s
+Min DeCompression Throughput: 217.312 Mbytes/s
+Compression ratio: 3.63053
+
+---------------------------------------
+Compressor: zfp
+abs12.7065
+
+Field: temperature
+Max Compression Throughput: 133.187 Mbytes/s
+Max DeCompression Throughput: 229.37 Mbytes/s
+Max Compress Time: 0.246313 s
+Min Compression Throughput: 129.916 Mbytes/s
+Min DeCompression Throughput: 215.679 Mbytes/s
+Compression ratio: 3.63053
+
+---------------------------------------
+Compressor: zfp
+abs14.8223
+
+Field: temperature
+Max Compression Throughput: 133.606 Mbytes/s
+Max DeCompression Throughput: 229.031 Mbytes/s
+Max Compress Time: 0.244553 s
+Min Compression Throughput: 130.851 Mbytes/s
+Min DeCompression Throughput: 216.824 Mbytes/s
+Compression ratio: 3.63053
+
+---------------------------------------
+Compressor: zfp
+abs18.8945
+
+Field: temperature
+Max Compression Throughput: 138.864 Mbytes/s
+Max DeCompression Throughput: 241.55 Mbytes/s
+Max Compress Time: 0.235191 s
+Min Compression Throughput: 136.06 Mbytes/s
+Min DeCompression Throughput: 231.042 Mbytes/s
+Compression ratio: 4.09518
+
+---------------------------------------
+Compressor: zfp
+abs21.3691
+
+Field: temperature
+Max Compression Throughput: 138.829 Mbytes/s
+Max DeCompression Throughput: 244.523 Mbytes/s
+Max Compress Time: 0.235513 s
+Min Compression Throughput: 135.874 Mbytes/s
+Min DeCompression Throughput: 232.191 Mbytes/s
+Compression ratio: 4.09518
+
+---------------------------------------
+Compressor: zfp
+abs25.0005
+
+Field: temperature
+Max Compression Throughput: 139.047 Mbytes/s
+Max DeCompression Throughput: 244.637 Mbytes/s
+Max Compress Time: 0.234907 s
+Min Compression Throughput: 136.224 Mbytes/s
+Min DeCompression Throughput: 230.376 Mbytes/s
+Compression ratio: 4.09518
+
+---------------------------------------
+Compressor: zfp
+abs29.2104
+
+Field: temperature
+Max Compression Throughput: 138.696 Mbytes/s
+Max DeCompression Throughput: 246.549 Mbytes/s
+Max Compress Time: 0.235576 s
+Min Compression Throughput: 135.837 Mbytes/s
+Min DeCompression Throughput: 231.174 Mbytes/s
+Compression ratio: 4.09518
+
+---------------------------------------
+Compressor: zfp
+abs50.6729
+
+Field: temperature
+Max Compression Throughput: 145.328 Mbytes/s
+Max DeCompression Throughput: 263.454 Mbytes/s
+Max Compress Time: 0.225878 s
+Min Compression Throughput: 141.67 Mbytes/s
+Min DeCompression Throughput: 247.019 Mbytes/s
+Compression ratio: 4.69639
+
+---------------------------------------
+Compressor: zfp
+abs77.3667
+
+Field: temperature
+Max Compression Throughput: 152.141 Mbytes/s
+Max DeCompression Throughput: 285.715 Mbytes/s
+Max Compress Time: 0.21846 s
+Min Compression Throughput: 146.48 Mbytes/s
+Min DeCompression Throughput: 266.521 Mbytes/s
+Compression ratio: 5.50513
+
+---------------------------------------
+Compressor: zfp
+abs105.853
+
+Field: temperature
+Max Compression Throughput: 152.22 Mbytes/s
+Max DeCompression Throughput: 284.354 Mbytes/s
+Max Compress Time: 0.215592 s
+Min Compression Throughput: 148.429 Mbytes/s
+Min DeCompression Throughput: 267.921 Mbytes/s
+Compression ratio: 5.50513
+
+---------------------------------------
+Compressor: zfp
+abs134.604
+
+Field: temperature
+Max Compression Throughput: 161.75 Mbytes/s
+Max DeCompression Throughput: 312.138 Mbytes/s
+Max Compress Time: 0.204621 s
+Min Compression Throughput: 156.387 Mbytes/s
+Min DeCompression Throughput: 291.911 Mbytes/s
+Compression ratio: 6.65098
+
+---------------------------------------
+Compressor: zfp
+abs159.592
+
+Field: temperature
+Max Compression Throughput: 161.131 Mbytes/s
+Max DeCompression Throughput: 313.925 Mbytes/s
+Max Compress Time: 0.204281 s
+Min Compression Throughput: 156.647 Mbytes/s
+Min DeCompression Throughput: 287.497 Mbytes/s
+Compression ratio: 6.65098
+
+---------------------------------------
+Compressor: zfp
+abs178.649
+
+Field: temperature
+Max Compression Throughput: 161.632 Mbytes/s
+Max DeCompression Throughput: 311.344 Mbytes/s
+Max Compress Time: 0.204563 s
+Min Compression Throughput: 156.431 Mbytes/s
+Min DeCompression Throughput: 289.827 Mbytes/s
+Compression ratio: 6.65098
+
+---------------------------------------
+Compressor: zfp
+abs202.771
+
+Field: temperature
+Max Compression Throughput: 160.472 Mbytes/s
+Max DeCompression Throughput: 312.088 Mbytes/s
+Max Compress Time: 0.20443 s
+Min Compression Throughput: 156.533 Mbytes/s
+Min DeCompression Throughput: 288.885 Mbytes/s
+Compression ratio: 6.65098
+
+---------------------------------------
+Compressor: zfp
+abs247.76
+
+Field: temperature
+Max Compression Throughput: 161.061 Mbytes/s
+Max DeCompression Throughput: 314.369 Mbytes/s
+Max Compress Time: 0.204731 s
+Min Compression Throughput: 156.303 Mbytes/s
+Min DeCompression Throughput: 289.106 Mbytes/s
+Compression ratio: 6.65098
+
+---------------------------------------
+Compressor: zfp
+abs276.153
+
+Field: temperature
+Max Compression Throughput: 173.735 Mbytes/s
+Max DeCompression Throughput: 360.035 Mbytes/s
+Max Compress Time: 0.192334 s
+Min Compression Throughput: 166.377 Mbytes/s
+Min DeCompression Throughput: 320.98 Mbytes/s
+Compression ratio: 8.38423
+
+---------------------------------------
+Compressor: zfp
+abs516.683
+
+Field: temperature
+Max Compression Throughput: 190.818 Mbytes/s
+Max DeCompression Throughput: 422.504 Mbytes/s
+Max Compress Time: 0.177398 s
+Min Compression Throughput: 180.385 Mbytes/s
+Min DeCompression Throughput: 366.872 Mbytes/s
+Compression ratio: 11.1837
+
+---------------------------------------
+Compressor: zfp
+abs805.253
+
+Field: temperature
+Max Compression Throughput: 191.052 Mbytes/s
+Max DeCompression Throughput: 416.618 Mbytes/s
+Max Compress Time: 0.177137 s
+Min Compression Throughput: 180.651 Mbytes/s
+Min DeCompression Throughput: 367.058 Mbytes/s
+Compression ratio: 11.1837
+
+---------------------------------------
+Compressor: zfp
+abs1037.16
+
+Field: temperature
+Max Compression Throughput: 212.015 Mbytes/s
+Max DeCompression Throughput: 503.066 Mbytes/s
+Max Compress Time: 0.160446 s
+Min Compression Throughput: 199.444 Mbytes/s
+Min DeCompression Throughput: 429.564 Mbytes/s
+Compression ratio: 15.8177
+
+---------------------------------------
+Compressor: zfp
+abs1298.79
+
+Field: temperature
+Max Compression Throughput: 212.171 Mbytes/s
+Max DeCompression Throughput: 505.847 Mbytes/s
+Max Compress Time: 0.171945 s
+Min Compression Throughput: 186.106 Mbytes/s
+Min DeCompression Throughput: 430.389 Mbytes/s
+Compression ratio: 15.8177
+
+---------------------------------------
+Compressor: zfp
+abs1491.37
+
+Field: temperature
+Max Compression Throughput: 212.539 Mbytes/s
+Max DeCompression Throughput: 503.282 Mbytes/s
+Max Compress Time: 0.161285 s
+Min Compression Throughput: 198.407 Mbytes/s
+Min DeCompression Throughput: 426.471 Mbytes/s
+Compression ratio: 15.8177
+
+---------------------------------------
+Compressor: zfp
+abs1818.22
+
+Field: temperature
+Max Compression Throughput: 212.337 Mbytes/s
+Max DeCompression Throughput: 504.615 Mbytes/s
+Max Compress Time: 0.161511 s
+Min Compression Throughput: 198.129 Mbytes/s
+Min DeCompression Throughput: 429.638 Mbytes/s
+Compression ratio: 15.8177
+
+---------------------------------------
+Compressor: zfp
+abs2010.56
+
+Field: temperature
+Max Compression Throughput: 212.395 Mbytes/s
+Max DeCompression Throughput: 512.641 Mbytes/s
+Max Compress Time: 0.161326 s
+Min Compression Throughput: 198.356 Mbytes/s
+Min DeCompression Throughput: 432.966 Mbytes/s
+Compression ratio: 15.8177
+
+---------------------------------------
+Compressor: zfp
+abs2474.03
+
+Field: temperature
+Max Compression Throughput: 238.879 Mbytes/s
+Max DeCompression Throughput: 608.861 Mbytes/s
+Max Compress Time: 0.144881 s
+Min Compression Throughput: 220.871 Mbytes/s
+Min DeCompression Throughput: 505.772 Mbytes/s
+Compression ratio: 23.1152
+
+---------------------------------------
+Compressor: zfp
+abs2510.36
+
+Field: temperature
+Max Compression Throughput: 238.112 Mbytes/s
+Max DeCompression Throughput: 607.79 Mbytes/s
+Max Compress Time: 0.145379 s
+Min Compression Throughput: 220.114 Mbytes/s
+Min DeCompression Throughput: 509.604 Mbytes/s
+Compression ratio: 23.1152
+
+---------------------------------------
+Compressor: zfp
+abs5074.82
+
+Field: temperature
+Max Compression Throughput: 267.725 Mbytes/s
+Max DeCompression Throughput: 705.114 Mbytes/s
+Max Compress Time: 0.12965 s
+Min Compression Throughput: 246.819 Mbytes/s
+Min DeCompression Throughput: 604.232 Mbytes/s
+Compression ratio: 33.7717
+
+---------------------------------------
+Compressor: zfp
+abs7285.65
+
+Field: temperature
+Max Compression Throughput: 267.739 Mbytes/s
+Max DeCompression Throughput: 700.01 Mbytes/s
+Max Compress Time: 0.129793 s
+Min Compression Throughput: 246.547 Mbytes/s
+Min DeCompression Throughput: 597.86 Mbytes/s
+Compression ratio: 33.7717
+
+---------------------------------------
+Compressor: zfp
+abs9538.6
+
+Field: temperature
+Max Compression Throughput: 300.85 Mbytes/s
+Max DeCompression Throughput: 805.954 Mbytes/s
+Max Compress Time: 0.115853 s
+Min Compression Throughput: 276.213 Mbytes/s
+Min DeCompression Throughput: 696.729 Mbytes/s
+Compression ratio: 47.9877
+
+---------------------------------------
+Compressor: zfp
+abs13916.4
+
+Field: temperature
+Max Compression Throughput: 300.845 Mbytes/s
+Max DeCompression Throughput: 799.042 Mbytes/s
+Max Compress Time: 0.115991 s
+Min Compression Throughput: 275.884 Mbytes/s
+Min DeCompression Throughput: 689.142 Mbytes/s
+Compression ratio: 47.9877
+
+---------------------------------------
+Compressor: zfp
+abs15074.4
+
+Field: temperature
+Max Compression Throughput: 300.995 Mbytes/s
+Max DeCompression Throughput: 796.436 Mbytes/s
+Max Compress Time: 0.115696 s
+Min Compression Throughput: 276.587 Mbytes/s
+Min DeCompression Throughput: 696.917 Mbytes/s
+Compression ratio: 47.9877
+
+---------------------------------------
+Compressor: zfp
+abs15498.6
+
+Field: temperature
+Max Compression Throughput: 300.241 Mbytes/s
+Max DeCompression Throughput: 805.311 Mbytes/s
+Max Compress Time: 0.128942 s
+Min Compression Throughput: 248.174 Mbytes/s
+Min DeCompression Throughput: 697.366 Mbytes/s
+Compression ratio: 47.9877
+
+---------------------------------------
+Compressor: zfp
+abs18728.9
+
+Field: temperature
+Max Compression Throughput: 339.409 Mbytes/s
+Max DeCompression Throughput: 887.337 Mbytes/s
+Max Compress Time: 0.102489 s
+Min Compression Throughput: 312.229 Mbytes/s
+Min DeCompression Throughput: 789.764 Mbytes/s
+Compression ratio: 66.1496
+
+---------------------------------------
+Compressor: zfp
+abs21474
+
+Field: temperature
+Max Compression Throughput: 339.16 Mbytes/s
+Max DeCompression Throughput: 894.352 Mbytes/s
+Max Compress Time: 0.102517 s
+Min Compression Throughput: 312.145 Mbytes/s
+Min DeCompression Throughput: 792.068 Mbytes/s
+Compression ratio: 66.1496

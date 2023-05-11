@@ -1,0 +1,433 @@
+Input file: /projects/exasky/data/NYX/highz/512/NVB_C009_l10n512_S12345T692_z54.hdf5
+
+---------------------------------------
+Compressor: zfp
+abs0.0635493
+
+Field: baryon_density
+Max Compression Throughput: 189.825 Mbytes/s
+Max DeCompression Throughput: 391.061 Mbytes/s
+Max Compress Time: 0.18468 s
+Min Compression Throughput: 173.273 Mbytes/s
+Min DeCompression Throughput: 333.966 Mbytes/s
+Compression ratio: 9.19533
+
+---------------------------------------
+Compressor: zfp
+abs0.115632
+
+Field: baryon_density
+Max Compression Throughput: 189.447 Mbytes/s
+Max DeCompression Throughput: 390.116 Mbytes/s
+Max Compress Time: 0.183361 s
+Min Compression Throughput: 174.519 Mbytes/s
+Min DeCompression Throughput: 331.836 Mbytes/s
+Compression ratio: 9.19533
+
+---------------------------------------
+Compressor: zfp
+abs0.154887
+
+Field: baryon_density
+Max Compression Throughput: 209.462 Mbytes/s
+Max DeCompression Throughput: 463.649 Mbytes/s
+Max Compress Time: 0.168775 s
+Min Compression Throughput: 189.602 Mbytes/s
+Min DeCompression Throughput: 383.142 Mbytes/s
+Compression ratio: 12.247
+
+---------------------------------------
+Compressor: zfp
+abs0.238162
+
+Field: baryon_density
+Max Compression Throughput: 211.63 Mbytes/s
+Max DeCompression Throughput: 461.445 Mbytes/s
+Max Compress Time: 0.169098 s
+Min Compression Throughput: 189.24 Mbytes/s
+Min DeCompression Throughput: 381.643 Mbytes/s
+Compression ratio: 12.247
+
+---------------------------------------
+Compressor: zfp
+abs0.286456
+
+Field: baryon_density
+Max Compression Throughput: 235.504 Mbytes/s
+Max DeCompression Throughput: 552.897 Mbytes/s
+Max Compress Time: 0.198946 s
+Min Compression Throughput: 160.848 Mbytes/s
+Min DeCompression Throughput: 445.474 Mbytes/s
+Compression ratio: 16.88
+
+---------------------------------------
+Compressor: zfp
+abs0.349371
+
+Field: baryon_density
+Max Compression Throughput: 235.497 Mbytes/s
+Max DeCompression Throughput: 544.043 Mbytes/s
+Max Compress Time: 0.153862 s
+Min Compression Throughput: 207.979 Mbytes/s
+Min DeCompression Throughput: 437.229 Mbytes/s
+Compression ratio: 16.88
+
+---------------------------------------
+Compressor: zfp
+abs0.42655
+
+Field: baryon_density
+Max Compression Throughput: 236.179 Mbytes/s
+Max DeCompression Throughput: 545.47 Mbytes/s
+Max Compress Time: 0.153763 s
+Min Compression Throughput: 208.112 Mbytes/s
+Min DeCompression Throughput: 439.981 Mbytes/s
+Compression ratio: 16.88
+
+---------------------------------------
+Compressor: zfp
+abs0.474902
+
+Field: baryon_density
+Max Compression Throughput: 234.024 Mbytes/s
+Max DeCompression Throughput: 548.698 Mbytes/s
+Max Compress Time: 0.15329 s
+Min Compression Throughput: 208.755 Mbytes/s
+Min DeCompression Throughput: 438.142 Mbytes/s
+Compression ratio: 16.88
+
+---------------------------------------
+Compressor: zfp
+abs0.507291
+
+Field: baryon_density
+Max Compression Throughput: 263.495 Mbytes/s
+Max DeCompression Throughput: 637.623 Mbytes/s
+Max Compress Time: 0.138495 s
+Min Compression Throughput: 231.055 Mbytes/s
+Min DeCompression Throughput: 509.1 Mbytes/s
+Compression ratio: 23.688
+
+---------------------------------------
+Compressor: zfp
+abs0.553213
+
+Field: baryon_density
+Max Compression Throughput: 263.722 Mbytes/s
+Max DeCompression Throughput: 640.831 Mbytes/s
+Max Compress Time: 0.138426 s
+Min Compression Throughput: 231.17 Mbytes/s
+Min DeCompression Throughput: 514.106 Mbytes/s
+Compression ratio: 23.688
+
+---------------------------------------
+Compressor: zfp
+abs1.1748
+
+Field: baryon_density
+Max Compression Throughput: 297.1 Mbytes/s
+Max DeCompression Throughput: 728.84 Mbytes/s
+Max Compress Time: 0.123694 s
+Min Compression Throughput: 258.703 Mbytes/s
+Min DeCompression Throughput: 591.3 Mbytes/s
+Compression ratio: 33.5106
+
+---------------------------------------
+Compressor: zfp
+abs1.7233
+
+Field: baryon_density
+Max Compression Throughput: 297.083 Mbytes/s
+Max DeCompression Throughput: 732.624 Mbytes/s
+Max Compress Time: 0.123852 s
+Min Compression Throughput: 258.372 Mbytes/s
+Min DeCompression Throughput: 590.385 Mbytes/s
+Compression ratio: 33.5106
+
+---------------------------------------
+Compressor: zfp
+abs2.0978
+
+Field: baryon_density
+Max Compression Throughput: 336.366 Mbytes/s
+Max DeCompression Throughput: 832.724 Mbytes/s
+Max Compress Time: 0.149147 s
+Min Compression Throughput: 214.553 Mbytes/s
+Min DeCompression Throughput: 688.585 Mbytes/s
+Compression ratio: 47.1028
+
+---------------------------------------
+Compressor: zfp
+abs2.7091
+
+Field: baryon_density
+Max Compression Throughput: 335.278 Mbytes/s
+Max DeCompression Throughput: 824.991 Mbytes/s
+Max Compress Time: 0.140757 s
+Min Compression Throughput: 227.343 Mbytes/s
+Min DeCompression Throughput: 684.472 Mbytes/s
+Compression ratio: 47.1028
+
+---------------------------------------
+Compressor: zfp
+abs3.3248
+
+Field: baryon_density
+Max Compression Throughput: 336.195 Mbytes/s
+Max DeCompression Throughput: 823.793 Mbytes/s
+Max Compress Time: 0.109808 s
+Min Compression Throughput: 291.417 Mbytes/s
+Min DeCompression Throughput: 680.286 Mbytes/s
+Compression ratio: 47.1028
+
+---------------------------------------
+Compressor: zfp
+abs3.6894
+
+Field: baryon_density
+Max Compression Throughput: 335.398 Mbytes/s
+Max DeCompression Throughput: 824.609 Mbytes/s
+Max Compress Time: 0.109817 s
+Min Compression Throughput: 291.393 Mbytes/s
+Min DeCompression Throughput: 683.833 Mbytes/s
+Compression ratio: 47.1028
+
+---------------------------------------
+Compressor: zfp
+abs4.1368
+
+Field: baryon_density
+Max Compression Throughput: 382.14 Mbytes/s
+Max DeCompression Throughput: 906.366 Mbytes/s
+Max Compress Time: 0.127441 s
+Min Compression Throughput: 251.097 Mbytes/s
+Min DeCompression Throughput: 768.963 Mbytes/s
+Compression ratio: 64.683
+
+---------------------------------------
+Compressor: zfp
+abs4.5293
+
+Field: baryon_density
+Max Compression Throughput: 382.334 Mbytes/s
+Max DeCompression Throughput: 910.816 Mbytes/s
+Max Compress Time: 0.0969454 s
+Min Compression Throughput: 330.083 Mbytes/s
+Min DeCompression Throughput: 770.77 Mbytes/s
+Compression ratio: 64.683
+
+---------------------------------------
+Compressor: zfp
+abs5.4078
+
+Field: baryon_density
+Max Compression Throughput: 382.517 Mbytes/s
+Max DeCompression Throughput: 904.589 Mbytes/s
+Max Compress Time: 0.0972326 s
+Min Compression Throughput: 329.108 Mbytes/s
+Min DeCompression Throughput: 775.156 Mbytes/s
+Compression ratio: 64.683
+
+---------------------------------------
+Compressor: zfp
+abs9.1921
+
+Field: baryon_density
+Max Compression Throughput: 440.121 Mbytes/s
+Max DeCompression Throughput: 956.852 Mbytes/s
+Max Compress Time: 0.0850552 s
+Min Compression Throughput: 376.226 Mbytes/s
+Min DeCompression Throughput: 858.641 Mbytes/s
+Compression ratio: 85.7497
+
+---------------------------------------
+Compressor: zfp
+abs15.469
+
+Field: baryon_density
+Max Compression Throughput: 439.675 Mbytes/s
+Max DeCompression Throughput: 979.746 Mbytes/s
+Max Compress Time: 0.0852157 s
+Min Compression Throughput: 375.517 Mbytes/s
+Min DeCompression Throughput: 861.556 Mbytes/s
+Compression ratio: 85.7497
+
+---------------------------------------
+Compressor: zfp
+abs18.885
+
+Field: baryon_density
+Max Compression Throughput: 512.746 Mbytes/s
+Max DeCompression Throughput: 1000.37 Mbytes/s
+Max Compress Time: 0.0739676 s
+Min Compression Throughput: 432.622 Mbytes/s
+Min DeCompression Throughput: 919.143 Mbytes/s
+Compression ratio: 109.608
+
+---------------------------------------
+Compressor: zfp
+abs23.109
+
+Field: baryon_density
+Max Compression Throughput: 511.754 Mbytes/s
+Max DeCompression Throughput: 1000.42 Mbytes/s
+Max Compress Time: 0.0741109 s
+Min Compression Throughput: 431.785 Mbytes/s
+Min DeCompression Throughput: 925.722 Mbytes/s
+Compression ratio: 109.608
+
+---------------------------------------
+Compressor: zfp
+abs24.373
+
+Field: baryon_density
+Max Compression Throughput: 511.224 Mbytes/s
+Max DeCompression Throughput: 1011.91 Mbytes/s
+Max Compress Time: 0.0740671 s
+Min Compression Throughput: 432.041 Mbytes/s
+Min DeCompression Throughput: 919.42 Mbytes/s
+Compression ratio: 109.608
+
+---------------------------------------
+Compressor: zfp
+abs32.886
+
+Field: baryon_density
+Max Compression Throughput: 614.962 Mbytes/s
+Max DeCompression Throughput: 1050.61 Mbytes/s
+Max Compress Time: 0.0634461 s
+Min Compression Throughput: 504.365 Mbytes/s
+Min DeCompression Throughput: 977.314 Mbytes/s
+Compression ratio: 139.666
+
+---------------------------------------
+Compressor: zfp
+abs34.953
+
+Field: baryon_density
+Max Compression Throughput: 613.694 Mbytes/s
+Max DeCompression Throughput: 1047.28 Mbytes/s
+Max Compress Time: 0.0633165 s
+Min Compression Throughput: 505.397 Mbytes/s
+Min DeCompression Throughput: 980.418 Mbytes/s
+Compression ratio: 139.666
+
+---------------------------------------
+Compressor: zfp
+abs43.364
+
+Field: baryon_density
+Max Compression Throughput: 616.492 Mbytes/s
+Max DeCompression Throughput: 1049.37 Mbytes/s
+Max Compress Time: 0.0633497 s
+Min Compression Throughput: 505.132 Mbytes/s
+Min DeCompression Throughput: 977.262 Mbytes/s
+Compression ratio: 139.666
+
+---------------------------------------
+Compressor: zfp
+abs47.293
+
+Field: baryon_density
+Max Compression Throughput: 615.912 Mbytes/s
+Max DeCompression Throughput: 1061.77 Mbytes/s
+Max Compress Time: 0.063272 s
+Min Compression Throughput: 505.753 Mbytes/s
+Min DeCompression Throughput: 978.347 Mbytes/s
+Compression ratio: 139.666
+
+---------------------------------------
+Compressor: zfp
+abs82.96
+
+Field: baryon_density
+Max Compression Throughput: 854.211 Mbytes/s
+Max DeCompression Throughput: 1329.58 Mbytes/s
+Max Compress Time: 0.0515099 s
+Min Compression Throughput: 621.239 Mbytes/s
+Min DeCompression Throughput: 1114.29 Mbytes/s
+Compression ratio: 200.285
+
+---------------------------------------
+Compressor: zfp
+abs188
+
+Field: baryon_density
+Max Compression Throughput: 1279.1 Mbytes/s
+Max DeCompression Throughput: 1789.21 Mbytes/s
+Max Compress Time: 0.037644 s
+Min Compression Throughput: 850.07 Mbytes/s
+Min DeCompression Throughput: 1339.02 Mbytes/s
+Compression ratio: 352.03
+
+---------------------------------------
+Compressor: zfp
+abs144.84
+
+Field: baryon_density
+Max Compression Throughput: 1279.3 Mbytes/s
+Max DeCompression Throughput: 1808.47 Mbytes/s
+Max Compress Time: 0.040831 s
+Min Compression Throughput: 783.718 Mbytes/s
+Min DeCompression Throughput: 1338.69 Mbytes/s
+Compression ratio: 352.03
+
+---------------------------------------
+Compressor: zfp
+abs162.57
+
+Field: baryon_density
+Max Compression Throughput: 1279.67 Mbytes/s
+Max DeCompression Throughput: 1789.57 Mbytes/s
+Max Compress Time: 0.0378543 s
+Min Compression Throughput: 845.347 Mbytes/s
+Min DeCompression Throughput: 1351.81 Mbytes/s
+Compression ratio: 352.03
+
+---------------------------------------
+Compressor: zfp
+abs205.12
+
+Field: baryon_density
+Max Compression Throughput: 1274.38 Mbytes/s
+Max DeCompression Throughput: 1781.5 Mbytes/s
+Max Compress Time: 0.0376247 s
+Min Compression Throughput: 850.504 Mbytes/s
+Min DeCompression Throughput: 1341.57 Mbytes/s
+Compression ratio: 352.03
+
+---------------------------------------
+Compressor: zfp
+abs277.87
+
+Field: baryon_density
+Max Compression Throughput: 1645.8 Mbytes/s
+Max DeCompression Throughput: 2050.68 Mbytes/s
+Max Compress Time: 0.027773 s
+Min Compression Throughput: 1152.2 Mbytes/s
+Min DeCompression Throughput: 1658.48 Mbytes/s
+Compression ratio: 655.091
+
+---------------------------------------
+Compressor: zfp
+abs302.79
+
+Field: baryon_density
+Max Compression Throughput: 1629.77 Mbytes/s
+Max DeCompression Throughput: 2067.79 Mbytes/s
+Max Compress Time: 0.0278512 s
+Min Compression Throughput: 1148.96 Mbytes/s
+Min DeCompression Throughput: 1647.53 Mbytes/s
+Compression ratio: 655.091
+
+---------------------------------------
+Compressor: zfp
+abs321.16
+
+Field: baryon_density
+Max Compression Throughput: 1639.35 Mbytes/s
+Max DeCompression Throughput: 2153.35 Mbytes/s
+Max Compress Time: 0.0278405 s
+Min Compression Throughput: 1149.41 Mbytes/s
+Min DeCompression Throughput: 1669.37 Mbytes/s
+Compression ratio: 655.091

@@ -1,0 +1,1 @@
+data_id,img_id,image_name,image_path,state_file,MSE,PSNR,SSIM,BrisqueIndex,DSSindex,FSIMindex,GMSDindex,HaarPSIindex,LPIPS,MDSIindex,MS-SSIMindex,MS-GMSDcindex,PSNRindex,SSIMindex,TVIndex,VIFpindex,VSIindex,SR-SIMindex
